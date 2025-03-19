@@ -69,11 +69,4 @@ Còi báo động      -> ESP8266 (chân 7)
 - Thay đổi ngưỡng cảnh báo tùy theo môi trường sử dụng.
 - Kiểm tra kết nối WiFi và module ESP8266 để đảm bảo hệ thống hoạt động ổn định.
 
-## 📧 Liên Hệ  
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua:  
-📩 Email: example@example.com  
-📌 GitHub: [@yourgithub](https://github.com/yourgithub)
-
----
-🔥 **Hãy Star 🌟 repository nếu bạn thấy hữu ích!**
 
